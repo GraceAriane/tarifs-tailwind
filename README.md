@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [tcf canada tarifs](https://tpweb-tarifs.vercel.app/)
+- Live Site URL: [tcf canada tarifs](https://tarifs-tailwind.vercel.app/)
 
 ## My process
 
